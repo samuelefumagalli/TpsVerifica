@@ -3,5 +3,17 @@ image{
 }
 p{
     display: inline;
-    text-decoration-color: red;
+    color: blue;
+    
+    
+}
+header{
+    color: red;
+
+}
+h1{
+    display: inline;
+}
+nav{
+    display: inline;
 }
