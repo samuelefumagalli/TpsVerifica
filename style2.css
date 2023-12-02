@@ -1,0 +1,16 @@
+head {
+   height: 50 px; 
+   text-align: center;
+}
+title{
+   text-align: center;
+   margin-left: 100px; 
+
+}
+h1{
+   color: red;
+   text-align: right;
+}
+div{
+   color: blue;
+}
