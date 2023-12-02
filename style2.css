@@ -5,5 +5,9 @@ head {
 title{
    text-align: center;
    margin-left: 100px; 
-   
+
+}
+h1{
+   color: red;
+   text-align: right;
 }
